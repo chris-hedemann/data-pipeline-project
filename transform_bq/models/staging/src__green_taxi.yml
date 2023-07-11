@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: src__green_taxi
+    schema: green_taxi
+    tables:
+      - name: tripdata_2021_01
+      - name: tripdata_2021_02
+      - name: tripdata_2021_03
