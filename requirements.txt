@@ -1,0 +1,10 @@
+# pyspark==3.4.0
+jupyter
+pandas
+pyarrow
+google-cloud-storage
+gcsfs
+click
+sqlalchemy
+fsspec
+pandas-gbq
