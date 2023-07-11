@@ -8,7 +8,7 @@ In this project you are going to build a data pipeline that is processing the `G
 
 Bonus task if you have the time:
 
-1. Use prefect for the Workflow Orechestration.
+1. Use prefect for the Workflow Orchestration.
 
 
 ## Questions:
