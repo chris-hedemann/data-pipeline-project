@@ -8,3 +8,4 @@ click
 sqlalchemy
 fsspec
 pandas-gbq
+dbt-bigquery
