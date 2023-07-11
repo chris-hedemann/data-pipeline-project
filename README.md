@@ -1,6 +1,6 @@
 # Data Pipeline Project
 
-Please do not fork this repository, but use this repository as a template for your refactoring project. Make Pull Requests to your own repository even if you work alone and mark the checkboxes with an x, if you are done with a topic in the pull request message.
+This is a pipeline project to extract New York Taxi Data from external storage, upload to Google Cloud Storage and then construct and ELT pipeline.
 
-## Project for today
-The task for today you can find in the [data-pipeline-project.md](data-pipeline-project.md) file.
+## Project description
+The detailed task description can be found in [data-pipeline-project.md](data-pipeline-project.md) file.
