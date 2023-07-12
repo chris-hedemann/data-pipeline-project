@@ -7,7 +7,13 @@ In this project, as part of the neue Fische ML Engineering bootcamp, I built a d
 2. Write an ELT pipeline, to extract data from the GCS bucket and produce a table showing revenue per day, preferably automated with a workflow orchestration. 
 
 # Results 
-Here are the results I produced using dbt and Google Cloud Platform Big Query:
+
+Here is the dbt lineage graph produced in the transformation step:
+
+
+![](./images/lineage_graph.png)
+
+Here are the final results produced on GCP Big Query:
 
 
 ![](./images/results_BG.png)
